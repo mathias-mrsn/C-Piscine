@@ -1,0 +1,6 @@
+Credentials cache: API:87682AF6-C21B-42FF-B7BB-AEC4425345DB
+        Principal: mamaurai@42.FR
+
+  Issued                Expires               Principal
+Jun 28 11:05:40 2021  Jul  5 11:05:40 2021  krbtgt/42.FR@42.FR
+Jun 28 11:05:41 2021  Jul  5 11:05:40 2021  HTTP/student-storage-2.42.fr@42.FR
